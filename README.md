@@ -1,14 +1,17 @@
 # Snake-Game-Javascript
 
-This repository contains the classic Snake game on Javascript.
+This repository contains the classic Snake game made with Javascript.
 
-## Preview
+## How it looks?
+
+![animation.gif](images/animation.gif)
+
+## Captures
 
 - 1 <br>
-    ![1.png](images/1.png)
+
+<img src="images/1.png" alt="1.png" width="300" height="300"/>
+
 - 2 <br>
-    ![2.png](images/2.png)
 
-## Animation
-
-- TODO: ![animation.gif](images/animation.gif) should be here.
+<img src="images/2.png" alt="2.png" width="300" height="300"/>
